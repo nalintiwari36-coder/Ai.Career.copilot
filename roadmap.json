@@ -1,0 +1,103 @@
+{
+    "Python": [
+        "Python Basics",
+        "Functions and Modules",
+        "Object Oriented Programming"
+    ],
+
+    "C++": [
+        "C++ Basics",
+        "OOP in C++",
+        "STL and Problem Solving"
+    ],
+
+    "Java": [
+        "Java Basics",
+        "OOP in Java",
+        "Java Collections"
+    ],
+
+    "Machine Learning": [
+        "ML Basics",
+        "Supervised Learning",
+        "Unsupervised Learning"
+    ],
+
+    "Deep Learning": [
+        "Neural Networks",
+        "CNN",
+        "Deep Learning with PyTorch"
+    ],
+
+    "SQL": [
+        "SQL Basics",
+        "Joins and Queries",
+        "Database Design"
+    ],
+
+    "Data Structures": [
+        "Arrays and Strings",
+        "Stacks and Queues",
+        "Trees and Graphs"
+    ],
+
+    "Algorithms": [
+        "Searching",
+        "Sorting",
+        "Time Complexity"
+    ],
+
+    "HTML": [
+        "HTML Basics",
+        "Forms and Tables",
+        "Semantic HTML"
+    ],
+
+    "CSS": [
+        "CSS Basics",
+        "Flexbox and Grid",
+        "Responsive Design"
+    ],
+
+    "JavaScript": [
+        "JavaScript Basics",
+        "DOM Manipulation",
+        "Async JavaScript"
+    ],
+
+    "Linux": [
+        "Linux Commands",
+        "File Permissions",
+        "Shell Basics"
+    ],
+
+    "Networking": [
+        "Networking Basics",
+        "TCP/IP",
+        "DNS and HTTP"
+    ],
+
+    "Docker": [
+        "Docker Basics",
+        "Docker Images",
+        "Docker Containers"
+    ],
+
+    "Kubernetes": [
+        "Kubernetes Basics",
+        "Pods and Deployments",
+        "Services"
+    ],
+
+    "AWS": [
+        "AWS Basics",
+        "EC2",
+        "S3"
+    ],
+
+    "Git": [
+        "Git Basics",
+        "Branches",
+        "GitHub Workflow"
+    ]
+}

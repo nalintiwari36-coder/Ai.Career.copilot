@@ -1,0 +1,102 @@
+{
+    "AI Engineer": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "SQL",
+        "Statistics",
+        "NumPy",
+        "Pandas",
+        "TensorFlow",
+        "PyTorch",
+        "Git"
+    ],
+
+    "Software Developer": [
+        "Python",
+        "C++",
+        "Java",
+        "SQL",
+        "Git",
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "Problem Solving"
+    ],
+
+    "Data Scientist": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Machine Learning",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Data Visualization",
+        "Jupyter",
+        "Git"
+    ],
+
+    "Web Developer": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "REST API",
+        "Responsive Design"
+    ],
+
+    "Mobile App Developer": [
+        "Java",
+        "Kotlin",
+        "Android",
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "SQL",
+        "REST API",
+        "Git"
+    ],
+
+    "Cybersecurity Analyst": [
+        "Networking",
+        "Linux",
+        "Python",
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Cryptography",
+        "Wireshark",
+        "Nmap",
+        "Firewalls",
+        "Git"
+    ],
+
+    "Cloud Solutions Architect": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Linux",
+        "Networking",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Cloud Security",
+        "System Design"
+    ],
+
+    "DevOps Engineer": [
+        "Linux",
+        "Git",
+        "GitHub Actions",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD",
+        "AWS",
+        "Terraform",
+        "Python"
+    ]
+}
