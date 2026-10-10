@@ -1,7 +1,12 @@
 {
-    "Name": "ishan",
+    "Name": "nalin",
     "Skill": [
-        "C"
+        "sql",
+        "database",
+        "java",
+        "javascript",
+        "c",
+        "c++"
     ],
     "Job": "AI Engineer"
 }

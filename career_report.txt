@@ -1,0 +1,36 @@
+
+===================================
+       AI CAREER COPILOT
+      CAREER READINESS REPORT
+===================================
+
+Name: nalin
+Selected Career: AI Engineer
+
+
+
+
+----- SKILL ANALYSIS -----
+Total Required Skills: 10
+Matched Skills: 1
+Missing Skills: 9
+Skill Match: 10.0 %
+
+----- LEARNING PROGRESS -----
+Completed Skills: 5
+Remaining Skills: 4
+
+----- SKILLS TO LEARN -----
+Python - High priority
+Machine Learning - High priority
+Deep Learning - High priority
+Statistics - Medium priority
+NumPy - Medium priority
+Pandas - Medium priority
+TensorFlow - Medium priority
+PyTorch - Medium priority
+Git - Low priority
+
+===================================
+          REPORT COMPLETED
+===================================
