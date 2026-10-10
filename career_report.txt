@@ -12,18 +12,19 @@ Selected Career: AI Engineer
 
 ----- SKILL ANALYSIS -----
 Total Required Skills: 10
-Matched Skills: 1
-Missing Skills: 9
-Skill Match: 10.0 %
+Matched Skills: 0
+Missing Skills: 10
+Skill Match: 0.0 %
 
 ----- LEARNING PROGRESS -----
-Completed Skills: 5
-Remaining Skills: 4
+Completed Skills: 10
+Remaining Skills: 0
 
 ----- SKILLS TO LEARN -----
 Python - High priority
 Machine Learning - High priority
 Deep Learning - High priority
+SQL - Medium priority
 Statistics - Medium priority
 NumPy - Medium priority
 Pandas - Medium priority

@@ -1,0 +1,70 @@
+{
+    "history": [
+        {
+            "Name": "nalin",
+            "Job": "AI Engineer",
+            "Skills": [
+                "python",
+                "html",
+                "css"
+            ],
+            "Match Percentage": 10.0,
+            "Missing Skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Statistics",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "PyTorch",
+                "Git"
+            ]
+        },
+        {
+            "Name": "nalin",
+            "Job": "AI Engineer",
+            "Skills": [
+                "c",
+                "c++",
+                "python",
+                "html"
+            ],
+            "Match Percentage": 10.0,
+            "Missing Skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Statistics",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "PyTorch",
+                "Git"
+            ]
+        },
+        {
+            "Name": "nalin",
+            "Job": "AI Engineer",
+            "Skills": [
+                "html",
+                "css",
+                "c++",
+                "c"
+            ],
+            "Match Percentage": 0.0,
+            "Missing Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Statistics",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "PyTorch",
+                "Git"
+            ]
+        }
+    ]
+}

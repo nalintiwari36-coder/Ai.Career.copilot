@@ -1,12 +1,10 @@
 {
     "Name": "nalin",
     "Skill": [
-        "sql",
-        "database",
-        "java",
-        "javascript",
-        "c",
-        "c++"
+        "html",
+        "css",
+        "c++",
+        "c"
     ],
     "Job": "AI Engineer"
 }
